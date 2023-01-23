@@ -1,6 +1,6 @@
-====================================
+======================
 Cookiecutter PyPackage for a cli app
-====================================
+======================
 
 Quickstart
 ----------
@@ -12,6 +12,6 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/zer0ttl/cookiecutter-cli-app.git
+    cookiecutter https://github.com/zer0ttl/cookiecutter-cli-.git
 
 Then:
